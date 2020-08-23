@@ -1,10 +1,13 @@
 # Lab01 Guide
 ## Getting Started
 Please complete the following to setup your local development environment before beginning the programming problems in this lab activity.  
-- Tools and Environtment Setup
-- Visual Studio Code Tutorial
+- [Tools and Environtment Setup](https://docs.google.com/document/d/1hiJ_kHOGoNYcfNHuHdDpaydDvsMy9yEqYhL3j3X0kj4/edit?usp=sharing)
+- [Visual Studio Code Intro Videos](https://code.visualstudio.com/docs/getstarted/introvideos)
 
-Once your development environment is setup and running, please watch the Lab01 Walkthough Video.
+Once your development environment is setup and running, please watch the [Lab01 Walkthough Video](https://www.youtube.com/playlist?list=PLvnIObHoMl8d5D_Kjou-GB4SAs9atFCh8).  
+
+**NOTE: Please remember to open the workspace before beginning on the lab activities**  
+
 ## Lab Warmup - Hello World
 ### Problem Description
 
