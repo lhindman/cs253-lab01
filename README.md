@@ -36,9 +36,9 @@ How are you?
 
 
 ### Implementation Guide
-1. Expand the folder named LabWarmup and open the file named hello_world.c
+1. Expand the folder named LabWarmup and open the file named main.c
 2. Enter the program code from the Problem Description
-3. Run the program using the embedded links above the main method
+3. Test the program using to ensure it functions as expected.
 4. Commit the changes to your local repository with a message stating that LabWarmup is completed.
 5. Push the changes from your local repository to the github classroom repository.
 6. Update the Coding Journal with an entry describing your experience using the steps outlined below.
